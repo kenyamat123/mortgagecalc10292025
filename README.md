@@ -1,4 +1,4 @@
-# Project Title: Mortgage Calculator
+# Project Title: Home Loan Calculator
 #### Name: Kenneth Alfanta Yamat
 #### GitHub username: kenyamat123
 #### edX username: BancorpOne
