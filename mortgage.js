@@ -58,7 +58,7 @@ function validateInput() {
     interestRate.value === "" ||
     loanTerm.value === ""
   ) {
-    alert("Please fill in all fields");
+    alert("Please fill in all fields.");
     return false;
   }
 }
