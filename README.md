@@ -3,7 +3,7 @@
 #### GitHub username: kenyamat123
 #### edX username: BancorpOne
 #### City, State, Country: Cameron, MO USA
-#### Video Demo: URL
+#### Video Demo: https://www.youtube.com/watch?v=z09zRSl61vA&t=2s
 #### Date of Video: 11/12/2025
 
 ## Description:
